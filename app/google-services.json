@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "494546237332",
+    "firebase_url": "https://bathroom-1603757990739.firebaseio.com",
+    "project_id": "bathroom-1603757990739",
+    "storage_bucket": "bathroom-1603757990739.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:494546237332:android:b7550069ea35cfc7684181",
+        "android_client_info": {
+          "package_name": "com.example.bathroommanager"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "494546237332-ur8i7eqh5ogalcnngpmuspcnrohvpct4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bathroommanager",
+            "certificate_hash": "84750a89358f7dfb49dbc55d1eaa79c255e057be"
+          }
+        },
+        {
+          "client_id": "494546237332-k71hbirb4jvnnjg39r94b36k9u7io607.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsGeC2kf-nLYS76TB_Xlp9_hA9tHEv3mo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "494546237332-k71hbirb4jvnnjg39r94b36k9u7io607.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
